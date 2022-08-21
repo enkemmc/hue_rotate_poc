@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/hue_rotate_poc/static/js/main.dc9b1e56.js",
+    "static/media/blue_watercolor.webp": "/hue_rotate_poc/static/media/blue_watercolor.5ae1d23580c886d1bfaf.webp",
+    "index.html": "/hue_rotate_poc/index.html",
+    "main.dc9b1e56.js.map": "/hue_rotate_poc/static/js/main.dc9b1e56.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc9b1e56.js"
+  ]
+}
